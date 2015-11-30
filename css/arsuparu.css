@@ -24,6 +24,7 @@ h1 .logo .negrita{
 }
 
 body{
+	background-color: #F6F7ED;
 	width: 800px;
 	margin: 100px auto;
 }
@@ -40,7 +41,7 @@ img{
 }
 
 
-@media (max-width: 600px){
+@media (max-width: 800px){
 	body{
 		width: 90%;
 		margin: 2em auto;
